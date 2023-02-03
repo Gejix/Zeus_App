@@ -16,8 +16,6 @@ Install the following libraries
     *   matplotlib:        *pip install matplotlib*
     *   datetime:          *pip install datetime*
 
-Unzip the zipped B1959734_Gerald_Juwah_ICA_Element_2
-
 | Files | Description          |
 | --------- | ------------------- |
 | Documentation | Folder that contains the black box testing and Report of the GUI |
