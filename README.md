@@ -1,6 +1,6 @@
 # Zeus App
 
-<img src="/Source/Zeus.JPG" alt="App interface" width="500" height="800">
+<img src="/Source/Zeus.JPG" alt="App interface" width="300" height="800">
 
 ## Description 
 Zeus application is a multi-statistical app that displays the graphs of Police stop and search reports from the year 2020 to 2022 and the Covid19 cases that OCCURRED IN 2020. 
