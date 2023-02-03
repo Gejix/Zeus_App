@@ -1,5 +1,6 @@
-# Software for Digital Innovation Element 2
-# By Gerald Chukwuemeka Juwah
+# Zeus App
+
+<img src="/Source/Zeus.JPG" alt="App interface" width="1000" height="300">
 
 ## Description 
 Zeus application is a multi-statistical app that displays the graphs of Police stop and search reports from the year 2020 to 2022 and the Covid19 cases that OCCURRED IN 2020. 
