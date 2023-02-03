@@ -6,15 +6,15 @@ Zeus application is a multi-statistical app that displays the graphs of Police s
 
 ## Installations
 Before going ahead to run the program, the below libraries and packages must be installed on your machhine.
-Install python (https://www.python.org/downloads/)
-Install python in your machine
-Install Anaconda (https://docs.anaconda.com/anaconda/install/index.html)
-Lunch Jupyter Lab
-Install the following libraries
-    *   pandas:            *pip install pandas*
-    *   requests:          *pip install request*
-    *   matplotlib:        *pip install matplotlib*
-    *   datetime:          *pip install datetime*
+- Install python (https://www.python.org/downloads/)
+- Install python in your machine
+- Install Anaconda (https://docs.anaconda.com/anaconda/install/index.html)
+- Lunch Jupyter Lab
+- Install the following libraries
+*   pandas:            *pip install pandas*
+*   requests:          *pip install request*
+*   matplotlib:        *pip install matplotlib*
+*   datetime:          *pip install datetime*
 
 | Files | Description          |
 | --------- | ------------------- |
