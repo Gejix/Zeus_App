@@ -11,10 +11,10 @@ Before going ahead to run the program, the below libraries and packages must be 
 - Install Anaconda (https://docs.anaconda.com/anaconda/install/index.html)
 - Lunch Jupyter Lab
 - Install the following libraries
-*   pandas:            *pip install pandas*
-*   requests:          *pip install request*
-*   matplotlib:        *pip install matplotlib*
-*   datetime:          *pip install datetime*
+    *   pandas:            *pip install pandas*
+    *   requests:          *pip install request*
+    *   matplotlib:        *pip install matplotlib*
+    *   datetime:          *pip install datetime*
 
 | Files | Description          |
 | --------- | ------------------- |
